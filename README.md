@@ -25,7 +25,7 @@ This will update live with changes to the spreadsheet.
 
 **q (optional):** A simple query string. This is case insensitive and will add any row containing the string in any cell to the filtered result.
 
-**integers (optional - default: true)**: Setting 'integers' to false will return numbers as a string.
+**int (optional - default: true)**: Setting 'integers' to false will return numbers as a string.
 
 **rows (optional - default: true)**: Setting 'rows' to false will return only column data.
 
