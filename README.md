@@ -13,7 +13,7 @@ This API connects to your spreadsheet and santizes the data, providing simple, r
 
 ## Usage
 
-First, you must publish your spreadsheet to the web, using `File -> Publish To Web` in your Google Spreadsheet.
+First, you must publish your spreadsheet to the web, using `File > Publish To Web` in your Google Spreadsheet.
 
 You can then access your readable JSON API using the `/api` endpoint. You can change this in app.js.
 

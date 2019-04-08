@@ -37,7 +37,6 @@ const api = function(req, res, next) {
 						}
 
 						newRow[name] = value;
-
 						if (queried === true) {
 							if (!columns.hasOwnProperty(name)) {
 								columns[name] = [];

@@ -1,5 +1,4 @@
 const express = require('express');
-const path = require('path');
 const parser = require('body-parser');
 const api = require('./api');
 

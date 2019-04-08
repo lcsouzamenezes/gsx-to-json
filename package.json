@@ -1,19 +1,18 @@
 {
-  "name": "raven",
-  "version": "2.1.0",
+  "name": "csv-to-json",
+  "version": "0.0.1",
   "main": "app.js",
   "scripts": {
     "test": "eslint ./"
   },
-  "keywords": [],
+  "keywords": ["csv to json", "sheet to json", "google sheet to json"],
   "author": "Suvajit#5580",
   "license": "ISC",
-  "description": "",
+  "description": "Google Spreadsheet to JSON API",
   
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "path": "^0.12.7",
     "request": "^2.88.0"
   },
   "devDependencies": {
