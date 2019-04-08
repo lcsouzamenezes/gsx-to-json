@@ -1,0 +1,23 @@
+{
+  "name": "raven",
+  "version": "2.1.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "eslint ./"
+  },
+  "keywords": [],
+  "author": "Suvajit#5580",
+  "license": "ISC",
+  "description": "",
+  
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-aqua": "^4.4.1"
+  }
+}
