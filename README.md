@@ -1,15 +1,9 @@
 # CSV TO JSON - Google Spreadsheet to JSON API [![Travis](https://api.travis-ci.org/AlmostSuvajit/csv-to-json.svg?branch=master)](https://travis-ci.org/AlmostSuvajit/csv-to-json)
 
-## About
-
-One useful feature of Google Spreadsheets is the ability to access the data as JSON by using a particular feed URL. However, this is a bit fiddly to do, and the resulting JSON is pretty unreadable, with usable data buried deep inside objects.
-
-This API connects to your spreadsheet and santizes the data, providing simple, readable JSON for you to use in your app.
-
 ## Install
 
-- Run `npm install`
-- Run `node app`
+- Run `npm install` or `yarn install`
+- Run `node app.js`
 
 ## Usage
 
