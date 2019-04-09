@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "main": "app.js",
   "scripts": {
+    "start": "node index.js",
     "test": "eslint ./"
   },
   "keywords": ["csv to json", "sheet to json", "google sheet to json"],
