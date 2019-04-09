@@ -21,5 +21,5 @@ app.use((error, req, res, next) => {
 });
 
 app.listen(process.env.PORT || 80, () => {
-	console.log('API listening on port 80');
+	console.log(`API listening on port ${process.env.PORT || 80}`);
 });
