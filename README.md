@@ -35,7 +35,7 @@ This will update live with changes to the spreadsheet.
 
 There are two sections to the returned data - Columns (containing the names of each column), and Rows (containing each row of data as an object.
 
-```
+```json
 {
     "columns":{
         "name":["Jack","Robert","Suvajit"],

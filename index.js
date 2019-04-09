@@ -1,7 +1,6 @@
 const express = require('express');
 const parser = require('body-parser');
 const api = require('./api');
-
 const app = express();
 
 app.use((req, res, next) => {
