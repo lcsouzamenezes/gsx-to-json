@@ -10,7 +10,6 @@ app.use((req, res, next) => {
 	next();
 });
 
-
 app.use(parser.urlencoded({ extended: true }));
 app.use(parser.json());
 
@@ -21,6 +20,6 @@ app.use((error, req, res, next) => {
 	res.status(400).send(error.message);
 });
 
-app.listen(80, () => {
+app.listen(process.env.PORT || 80, () => {
 	console.log('API listening on port 80');
 });
