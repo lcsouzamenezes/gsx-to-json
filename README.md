@@ -15,7 +15,7 @@ You can then access your readable JSON API using the `/api` endpoint. You can ch
 http://localhost/api?id=SPREADSHEET_ID&sheet=SHEET_NUMBER
 ```
 
-This will update live with changes to the spreadsheet.
+This will update live with changes to the [spreadsheet](https://docs.google.com/spreadsheets/d/1hY2zD8b0uK7fGEhZMMzUsfDNyKYud3MYae3d2jEQihM/edit?usp=sharing).
 
 ### Parameters
 
