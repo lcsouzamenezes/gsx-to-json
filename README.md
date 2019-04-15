@@ -1,4 +1,4 @@
-# CSV TO JSON - Google Spreadsheet to JSON API [![Travis](https://travis-ci.org/almostSuvajit/CSV-TO-JSON.svg?branch=master)](https://travis-ci.org/AlmostSuvajit/csv-to-json)
+# CSV TO JSON - Google Spreadsheet to JSON API [![Travis](https://travis-ci.org/almostSuvajit/CSV-TO-JSON.svg?branch=master)](https://travis-ci.org/almostSuvajit/CSV-TO-JSON)
 
 ## Install
 
